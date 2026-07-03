@@ -1,2 +1,1 @@
 # giribari.github.io
-well
